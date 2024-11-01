@@ -2,8 +2,11 @@ body {
      background-color: black;
      color: brown; 
 }
+
 header {
 background-color: azure;
-
-
+text-align: center;
+font-size: 32px;
+padding: 10px;
+border-bottom: solid 2px rgb(247, 44, 78);
 }
