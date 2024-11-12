@@ -11,10 +11,23 @@ padding: 10px;
 border-bottom: solid 2px rgb(247, 44, 78);
 }
 
-.primeirovideo{
+.
+
+primeirovideo{
      background-color: blue;
      padding-bottom: 80px;
      padding-top: 80px;
      display: flex;
      justify-content: center;
-}
+ }
+
+ .chamada-texto {
+     margin-right: 20px;
+     margin-right: 10px;
+     text-align: justify;
+      }
+
+      h1{
+           font-size: 40px;
+           margin-left: 150px;
+      }
