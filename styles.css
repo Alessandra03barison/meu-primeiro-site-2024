@@ -1,7 +1,10 @@
 body {
      background-color: black;
      color: brown; 
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin-bottom: 1oopx
 }
+
 
 header {
 background-color: azure;
